@@ -1,6 +1,7 @@
 # :notebook_with_decorative_cover: Hi there, This is somethings about me!
 <div align="center">
   I'm a <b>Back-end web devoloper</b>
+  <br>
   :earth_asia: I'm living in <b>Ha Noi, Viet Nam</b>
 </div>
 
