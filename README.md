@@ -1,6 +1,6 @@
 # :notebook_with_decorative_cover: Hi there, This is somethings about me!
 <div align="center">
-  <ul>
+  <ul list-style="none">
     <li>:computer: I'm a <b>Back-end web devoloper</b></li>
     <li>:earth_asia: I'm living in <b>Ha Noi, Viet Nam</b></li>
     <li>:pencil2: I'm currently student in <b> Hanoi Open University </b></li>
