@@ -4,7 +4,7 @@
   <br>
   :earth_asia: I'm living in <b>Ha Noi, Viet Nam</b>
   <br>
-  :pencil2: I'm currently students in <b> Hanoi Open University </b>
+  :pencil2: I'm currently student in <b> Hanoi Open University </b>
 </div>
 <br>
 <div align="center">
