@@ -1,10 +1,13 @@
 # :notebook_with_decorative_cover: Hi there, This is somethings about me!
-<div align="center">
-  :computer: I'm a <b>Back-end web devoloper</b>
-  <br>
-  :earth_asia: I'm living in <b>Ha Noi, Viet Nam</b>
-  <br>
-  :pencil2: I'm currently student in <b> Hanoi Open University </b>
+<div>
+  <ul>
+    <li>:computer: I'm a <b>Back-end web devoloper</b></li>
+    <li>:earth_asia: I'm living in <b>Ha Noi, Viet Nam</b></li>
+    <li>:pencil2: I'm currently student in <b> Hanoi Open University </b></li>
+  </ul>
+  <div>
+    <img src="./resources/cat.gif" />
+  </div>
 </div>
 <br>
 <div align="center">
