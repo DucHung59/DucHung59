@@ -1,5 +1,5 @@
 # :notebook_with_decorative_cover: Hi there, This is somethings about me!
-<div display="flex">
+<div align="center">
   <ul>
     <li>:computer: I'm a <b>Back-end web devoloper</b></li>
     <li>:earth_asia: I'm living in <b>Ha Noi, Viet Nam</b></li>
