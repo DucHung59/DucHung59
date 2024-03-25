@@ -6,7 +6,7 @@
     <li>:pencil2: I'm currently student in <b> Hanoi Open University </b></li>
   </ul>
   <div>
-    <img src="./resources/cat.gif" width="100px" />
+    <img src="./resources/cat.gif" width="200px" />
   </div>
 </div>
 <br>
@@ -18,7 +18,7 @@
 
 <br>
 
-# Technology using
+# Technology in use
 
 <div align="center">
   
