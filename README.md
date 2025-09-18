@@ -2,7 +2,7 @@
 <div align="center">
     :computer: I'm a <b>Web developer</b> <br>
     :earth_asia: I'm living in <b>Ha Noi, Viet Nam</b> <br>
-    :pencil2: I'm currently student in <b> Hanoi Open University </b> <br>
+    :pencil2: I'm student in <b> Hanoi Open University </b> <br>
   <div>
     <img src="./resources/cat.gif" width="200px" />
   </div>
