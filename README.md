@@ -14,7 +14,7 @@
     
 </div>
 
-# :computer: Technology in use
+# :computer: Technologies in use
 
 <div align="center">
   
